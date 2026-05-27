@@ -1,0 +1,13 @@
+{
+  "name": "ruenyai-red-override",
+  "version": "2.0.0",
+  "description": "Ruenyai Hub Dark OSINT Simulator",
+  "main": "exe.js",
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "gradient-string": "^2.0.2",
+    "cli-table3": "^0.6.4",
+    "systeminformation": "^5.22.7"
+  }
+}
